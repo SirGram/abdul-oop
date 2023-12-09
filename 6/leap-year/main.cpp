@@ -22,10 +22,6 @@ int main(){
         cout << "Its leap year" << endl;
     }
     else{
-        cout << "Its not leap year" << endl;}
-
-    
-    
-
+        cout << "Its not leap year" << endl;}   
     return 0;
 }
